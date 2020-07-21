@@ -4,7 +4,7 @@ truly = str (input())
 print("Digite seu nome")
 nomeFuncionario = str (input())
 
-print ("Olá " + nomeFuncionario + " da " + Truly + " eu sou a Iara")
+print ("Olá " + nomeFuncionario + " da " + truly + " eu sou a Iara")
 
 
 
